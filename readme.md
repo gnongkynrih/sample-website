@@ -6,6 +6,9 @@ laravel new projectName
 
 when you clone my project, run these commands:
 git clone https://github.com/gnongkynrih/sample-website.git
+or
+
+git clone https://github.com/gnongkynrih/fullstack-2026
 
 cp .env.example .env //rename the .env.example file to .env
 php artisan key:generate //generate the project key
